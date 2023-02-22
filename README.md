@@ -6,4 +6,4 @@
 ![](https://komarev.com/ghpvc/?username=dduyg&color=7B919C)
 
 </div>
-<h4 align="center"><samp>Check out my repos ↓</samp></h4>
+<h4 align="center"><samp>I love puzzling with data and code. Check out my repos ↓</samp></h4>
