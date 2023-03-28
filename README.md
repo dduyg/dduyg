@@ -3,7 +3,7 @@
 <p align="center"> <img width="250" src="https://github.com/dduyg/miscellaneous/blob/8ce1a83c9cf97ce9c933a0e442d2509027e76a22/bins-and-balls.gif"> </p>  
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=dduyg&color=CD8652)
+![](https://komarev.com/ghpvc/?username=dduyg&color=F8AE81)
 
 </div>
 <h4 align="center"><samp>I love creating new things with data and code. <br> Check out my repos ↓</samp></h4>
