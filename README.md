@@ -9,4 +9,4 @@
 <h4 align="center"><samp>I love creating new things with data and code. <br> Check out my repos ↓</samp></h4>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dduyg&theme=synthwave&hide=html,css,scss&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dduyg&hide_border=true&hide=html,css,scss&title_color=877F7D&text_color=023020&layout=compact)
