@@ -7,7 +7,7 @@
 
 </div> 
  
-<img width="250" src="https://raw.githubusercontent.com/dduyg/filing-cabinet/main/images/bins-and-balls.gif?token=GHSAT0AAAAAACOPJLLHJI4YZM2XECWER6ZCZOWR5WQ"> 
+<img width="250" src="bins-and-balls.gif"> 
 
 ![](https://komarev.com/ghpvc/?username=dduyg&color=98473E)
 
