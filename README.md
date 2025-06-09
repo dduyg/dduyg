@@ -3,7 +3,7 @@
   **Hi there 👋🏼 I'm Duygu.**
 
 <div align="center">
-  <a href= "https://dduyg.github.io/" target="_blank"><img src="https://img.icons8.com/glyph-neue/32/1A1A1A/domain.png"/></a> <a href= "https://observablehq.com/user/@dduyg" target="_blank"><img width="27" src="https://logo.svgcdn.com/l/observablehq.png"></a> <a href= "https://instagram.com/insert.data" target="_blank"><img width="27" src="https://logo.svgcdn.com/l/instagram-icon.png"/></a> <a href= "https://medium.com/@dduyg" target="_blank"><img src="https://img.icons8.com/fluency-systems-filled/32/null/medium-logo.png"/></a> <a href= "https://ko-fi.com/dduyg" target="_blank"><img width="31" src="https://logo.svgcdn.com/s/kofi-dark.png"/></a>
+  <a href= "https://dduyg.github.io/" target="_blank"><img width="30" src="https://img.icons8.com/?size=100&id=1349&format=png&color=000000"/></a> <a href= "https://observablehq.com/user/@dduyg" target="_blank"><img width="27" src="https://logo.svgcdn.com/l/observablehq.png"></a> <a href= "https://instagram.com/insert.data" target="_blank"><img width="27" src="https://logo.svgcdn.com/l/instagram-icon.png"/></a> <a href= "https://medium.com/@dduyg" target="_blank"><img width="30" src="https://img.icons8.com/?size=100&id=XVNvUWCvvlD9&format=png&color=000000"/></a> <a href= "https://ko-fi.com/dduyg" target="_blank"><img width="31" src="https://logo.svgcdn.com/s/kofi-dark.png"/></a>
 
 </div> 
  
