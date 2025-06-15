@@ -7,7 +7,7 @@
 
 </div> 
  
-<img width="250" src="bins-and-balls.gif"> 
+<img width="250" src="https://cdn.jsdelivr.net/gh/dduyg/LiminalLoop/06/bins-and-balls.gif"> 
 
 ![](https://komarev.com/ghpvc/?username=dduyg&color=98473E)
 
