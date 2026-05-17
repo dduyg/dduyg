@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td align="center" width="50"><a href="https://dduyg.github.io/" target="_blank"><img width="28" src="https://cdn.simpleicons.org/internetarchive/C3BABA"></a></td>
-    <td rowspan="5"><br><br><p align="center"><small><b>Hi there 👋🏼 I’m <em>Duygu</em></b>, <img src="https://raw.githubusercontent.com/dduyg/LiminalLoop/shelf/0-6/title-animation.svg" alt=""> data sculptor, designing scalable pipelines and explainable systems that don’t just work, but make sense. 💨 🪜 </small></p><p align="center"><samp><sup>I believe the best systems are explainable [if you can’t explain it, you don’t understand it], systematic [architecture is chaos, thoughtfully organized], and beautiful [code is craft, and aesthetics matter].</sup></samp></p><br>
+    <td rowspan="5"><br><br><p align="center"><small><b>Hi there 👋🏼 I’m <em>Duygu</em></b>, <img src="https://raw.githubusercontent.com/dduyg/LiminalLoop/shelf/0-6/title-animation.svg" alt=""> data sculptor, designing scalable pipelines and explainable systems that don’t just work, but make sense. 💨 🪜 <samp><sup>code is craft, and architecture is chaos, thoughtfully organized.</sup></samp></small></p><br>
 
 <div align="center">
   <img width="180" src="https://cdn.jsdelivr.net/gh/dduyg/LiminalLoop@shelf/0-6/blobs/bins-and-balls.gif">
