@@ -7,9 +7,7 @@
   <img width="180" src="https://cdn.jsdelivr.net/gh/dduyg/LiminalLoop@shelf/0-6/blobs/bins-and-balls.gif">
     <details><summary>&nbsp; <sub>𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢</sub></summary><br>
   
-*<samp>Currently exploring: Advanced model interpretability • Generative databases • Cloud Tech 🐍 ☁️</samp>*
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dduyg&theme=shadow_red&layout=compact&hide=css,scss,html&stats_format=bytes)</details></div><br></td>
+*<samp>Currently exploring: Advanced model interpretability • Generative databases</samp>*</details></div><br></td>
   </tr>
   <tr>
     <td align="center" width="50"><a href="https://observablehq.com/user/@dduyg" target="_blank"><img width="28" src="https://cdn.simpleicons.org/observable/C3BABA"/></a></td>
