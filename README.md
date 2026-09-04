@@ -16,6 +16,6 @@
     <td align="center" width="50"><a href="https://instagram.com/insert.data" target="_blank"><img width="28" src="https://cdn.simpleicons.org/instagram/C3BABA"/></a></td>
   </tr>
   <tr>
-    <td align="center" width="50"><a href="https://medium.com/@dduyg" target="_blank"><img width="28" src="https://img.icons8.com/?size=100&id=XVNvUWCvvlD9&format=png&color=C3BABA"/></a></td>
+    <td align="center" width="50"><a href="https://huggingface.co/dduyg" target="_blank"><img width="28" src="https://cdn.simpleicons.org/huggingface/C3BABA"/></a></td>
   </tr>
 </table>
